@@ -1,0 +1,23 @@
+{
+  "name": "Unfancy Reader View",
+  "description": "This extension makes bare HTML pages readable",
+  "version": "1.0",
+
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "name": "Click to enable reader mode",
+    "default_icon": "icon.png"
+  },
+
+  "manifest_version": 2
+}
