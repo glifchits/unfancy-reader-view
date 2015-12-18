@@ -8,3 +8,13 @@ lauded.
 However, I find it hard to read blocks of text that are as wide as my computer
 screen. So I made this, a really simple Chrome extension that makes plain HTML
 pages readable.
+
+### Example
+
+Before:
+
+![Before](screenshots/before.png)
+
+After:
+
+![After](screenshots/after.png)
